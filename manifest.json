@@ -1,0 +1,14 @@
+{
+    "name": "Popup",
+    "description": "Base Level Extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "ok.html",
+      "default_icon": "pic.jpg"
+    },
+
+      "permissions": ["scripting", "tabs", "activeTab"]
+      
+    
+  }
